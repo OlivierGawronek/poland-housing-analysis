@@ -61,10 +61,10 @@ jupyter notebook
 
 ## Progress
 
-- [ ] Load and inspect data
-- [ ] Data cleaning
-- [ ] EDA and visualizations
-- [ ] Feature engineering
+- [x] Load and inspect data
+- [x] Data cleaning
+- [x] EDA and visualizations
+- [x] Feature engineering
 - [ ] Modeling
 - [ ] Document results
 
