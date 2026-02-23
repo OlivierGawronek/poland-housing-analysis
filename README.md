@@ -62,13 +62,13 @@ jupyter notebook
 ## Visualizations
 
 ### Price Distribution
-![Price Distribution](results/price_distribution.png)
+![Price Distribution](results/figures/price_distribution.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](results/correlation_heatmap.png)
+![Correlation Heatmap](results/figures/correlation_heatmap.png)
 
 ### Model Comparison
-![Model Comparison](results/model_comparison.png)
+![Model Comparison](results/figures/model_comparison.png)
 
 ## Results
 
