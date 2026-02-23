@@ -59,6 +59,23 @@ jupyter notebook
 | 3 | `03_feature_engineering.ipynb` | Creating new features, encoding |
 | 4 | `04_modeling.ipynb` | ML models, evaluation, comparison |
 
+## Results
+
+Best model: **Gradient Boosting Regressor**
+
+| Model | MAE (PLN) | RMSE (PLN) | R² |
+|-------|-----------|------------|-----|
+| Gradient Boosting | 173,760 | 240,165 | 0.4687 |
+| Linear Regression | 189,887 | 253,638 | 0.4074 |
+| Random Forest | 187,172 | 260,215 | 0.3763 |
+| Decision Tree | 275,905 | 365,244 | -0.2289 |
+
+### Key Findings
+- Surface area is the strongest predictor of price
+- Gradient Boosting outperforms other models with R² = 0.47
+- Decision Tree overfits heavily on small dataset (502 rows)
+- Location (voivodeship, city) significantly impacts price
+
 ## Progress
 
 - [x] Load and inspect data
@@ -66,7 +83,7 @@ jupyter notebook
 - [x] EDA and visualizations
 - [x] Feature engineering
 - [x] Modeling
-- [ ] Document results
+- [x] Document results
 
 ## License
 
