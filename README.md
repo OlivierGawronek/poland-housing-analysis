@@ -59,6 +59,17 @@ jupyter notebook
 | 3 | `03_feature_engineering.ipynb` | Creating new features, encoding |
 | 4 | `04_modeling.ipynb` | ML models, evaluation, comparison |
 
+## Visualizations
+
+### Price Distribution
+![Price Distribution](results/price_distribution.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](results/correlation_heatmap.png)
+
+### Model Comparison
+![Model Comparison](results/model_comparison.png)
+
 ## Results
 
 Best model: **Gradient Boosting Regressor**
