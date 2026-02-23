@@ -65,7 +65,7 @@ jupyter notebook
 - [x] Data cleaning
 - [x] EDA and visualizations
 - [x] Feature engineering
-- [ ] Modeling
+- [x] Modeling
 - [ ] Document results
 
 ## License
